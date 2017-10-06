@@ -57,13 +57,36 @@ Stock photos
  - [Free stock photos](https://www.freestockphotos.org/)
  - [Morguefile](https://morguefile.com/search/morguefile/1/pop)
  - [Freeimages](http://www.freeimages.co.uk/terms.htm)
-
+ - [Placekitten] (http://placekitten.com/)
+ - [Albumarium] (http://albumarium.com/)
+ - [Titania foto] (www.titania-foto.com/)
+ - [Dreamstime] (https://www.dreamstime.com/)
+ - [Pickup Image] (http://pickupimage.com/)
+ - [Ancestry Images] (http://www.ancestryimages.com/)
+ - [Imagefree] (https://www.imagefree.com/)
+ - [FreeMediaGoo] (http://www.freemediagoo.com/)
+ - [FreeDigitalPhotos.net] (http://www.freedigitalphotos.net/)
+ - [FreePhotosBank] (http://freephotosbank.com/)
+ - [iStock] (http://www.istockphoto.com/)
+ - [rgbstock] (http://www.rgbstock.com/)
+ - [StockVault] (http://www.stockvault.net/)
+ - [Freerange] (https://freerangestock.com/)
+ - [Gratisography] (https://www.gratisography.com/)
+ - [ImFree] (http://imcreator.com/free)
+ - [Google Life] (http://images.google.com/hosted/life)
+ - [Morguefile] (https://morguefile.com/)
+ - [New Old Stock] (http://nos.twnsnd.co/)
+ - [Openclipart] (https://openclipart.org/)
+ - [openphoto] (https://openphoto.net/)
+ 
 Graphics resources
 ------------------
 
 ### Commercial
 
  - [Envato elements](https://elements.envato.com)
+ - [Textures.com] (https://openclipart.org/)
+ 
 
 
 Royality free music
@@ -93,6 +116,8 @@ Royality free music
  - [Jewel Beat](http://www.jewelbeat.com/free/free-background-music.htm)
  - [Music for monetize](https://www.youtube.com/user/MusicForMonetize/videos)
  - [whatfunk]( http://www.whatfunk.com/)
+ - [mobygratis] (http://www.mobygratis.com)
+ 
 
 ### Commercial
 
