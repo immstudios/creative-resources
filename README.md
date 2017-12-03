@@ -151,6 +151,7 @@ Samples and loops
  - [SampleSwap](http://sampleswap.org/)
  - [Wavy.audio](http://wavy.audio/)
  - [Converse sample library](https://www.conversesamplelibrary.com/)
+ - [Looperman](https://www.looperman.com/loops)
 
 Sound effects
 -------------
