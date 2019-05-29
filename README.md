@@ -110,7 +110,7 @@ Graphics resources
  
 
 
-Royality free music
+Royalty free music
 -------------------
 
 ### Free
