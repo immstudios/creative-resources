@@ -18,23 +18,23 @@ Stock footage
 
 ### Free
 
- - [PixaBay](https://pixabay.com)
- - [Pexels](https://videos.pexels.com)
- - [Videovo](https://www.videvo.net)
+ - [Beachfront B-Roll](http://www.beachfrontbroll.com/)
+ - [Clipcanvas](http://www.clipcanvas.com/free-footage/)
+ - [Coverr](http://www.coverr.co/)
  - [CuteStockFootage](https://www.cutestockfootage.com/)
- - [Vidlery](http://vidlery.com/) - Free animated backgrounds
+ - [Lifeofvids](http://www.lifeofvids.com/)
  - [Little cloud cinema](http://www.littlecloudcinema.com/footage.html)
  - [Mitch Martinez](http://mitchmartinez.com/free-4k-red-epic-stock-footage/ )
- - [Coverr](http://www.coverr.co/)
- - [Lifeofvids](http://www.lifeofvids.com/)
- - [Videezy](https://www.videezy.com/browse)
- - [Stock footage for free](http://www.stockfootageforfree.com/)
- - [XStockVideo](http://www.xstockvideo.com/)
- - [Beachfront B-Roll](http://www.beachfrontbroll.com/)
- - [Vidsplay](http://www.vidsplay.com/)
- - [Clipcanvas](http://www.clipcanvas.com/free-footage/)
  - [Motionelements](http://www.motionelements.com/free/stock-footage)
+ - [Pexels](https://videos.pexels.com)
+ - [PixaBay](https://pixabay.com)
+ - [Stock footage for free](http://www.stockfootageforfree.com/)
+ - [Videezy](https://www.videezy.com/browse)
+ - [Videovo](https://www.videvo.net)
+ - [Vidlery](http://vidlery.com/) - Free animated backgrounds
+ - [Vidsplay](http://www.vidsplay.com/)
  - [Wedistill](http://www.wedistill.io/)
+ - [XStockVideo](http://www.xstockvideo.com/)
 
 ### Commercial
 
@@ -48,54 +48,43 @@ Stock photos
 
 ### Free
 
- - [Flickr](https://www.flickr.com/creativecommons/)
- - [Pexels](https://pexels.com)
- - [Pixabay](https://pixabay.com)
- - [Stocksnap](https://stocksnap.io/)
- - [Unsplash](https://unsplash.com/)
- - [Public domain archive](http://publicdomainarchive.com/free-stock-photos/)
- - [Free stock photos](https://www.freestockphotos.org/)
- - [Morguefile](https://morguefile.com/search/morguefile/1/pop)
- - [Freeimages](http://www.freeimages.co.uk/terms.htm)
- - [Placekitten](http://placekitten.com/)
- - [Albumarium](http://albumarium.com/)
- - [Titania foto](www.titania-foto.com/)
+ - [Ancestry Images](http://www.ancestryimages.com/) - Historical prints
+ - [Burst.shopify](https://burst.shopify.com/)
  - [Dreamstime](https://www.dreamstime.com/)
- - [Pickup Image](http://pickupimage.com/)
- - [Ancestry Images](http://www.ancestryimages.com/)
- - [Imagefree](https://www.imagefree.com/)
- - [FreeMediaGoo](http://www.freemediagoo.com/)
+ - [Finda](http://finda.photo/)
+ - [Flickr](https://www.flickr.com/creativecommons/)
+ - [Foter](http://foter.com/)
  - [FreeDigitalPhotos.net](http://www.freedigitalphotos.net/)
- - [FreePhotosBank](http://freephotosbank.com/)
- - [iStock](http://www.istockphoto.com/)
- - [rgbstock](http://www.rgbstock.com/)
- - [StockVault](http://www.stockvault.net/)
+ - [FreeMediaGoo](http://www.freemediagoo.com/)
+ - [Freeimages](http://www.freeimages.com/)
  - [Freerange](https://freerangestock.com/)
+ - [Google Life](http://images.google.com/hosted/life)
  - [Gratisography](https://www.gratisography.com/)
  - [ImFree](http://imcreator.com/free)
- - [Google Life](http://images.google.com/hosted/life)
- - [Morguefile](https://morguefile.com/)
- - [New Old Stock](http://nos.twnsnd.co/)
- - [Openclipart](https://openclipart.org/)
- - [openphoto](https://openphoto.net/)
- - [picjumbo](https://picjumbo.com/)
- - [publicdomainarchive](http://publicdomainarchive.com/)
- - [PublicDomainPictures](http://www.publicdomainpictures.net/)
- - [pdpcis](http://pdpics.com/)
- - [Stockified](https://www.stockified.com/)
- - [StockPhotos](https://stockphotos.io/)
- - [Freeimages](http://www.freeimages.com/)
- - [Unsplash](https://unsplash.com/)
+ - [Imagefree](https://www.imagefree.com/)
  - [Kaboompics](https://kaboompics.com/)
- - [Fotopiq](https://www.fotopiq.com/)
- - [Burst.shopify](https://burst.shopify.com/)
  - [Magdeleine](https://magdeleine.co/browse/)
+ - [Morguefile](https://morguefile.com/search/morguefile/1/pop)
+ - [New Old Stock](http://nos.twnsnd.co/)
+ - [OpenPhoto](https://openphoto.net/)
+ - [Openclipart](https://openclipart.org/)
+ - [PDcis](http://pdpics.com/)
+ - [Pexels](https://pexels.com)
+ - [Picjumbo](https://picjumbo.com/)
+ - [Pickup Image](http://pickupimage.com/)
+ - [Pixabay](https://pixabay.com)
+ - [PublicDomainPictures](http://www.publicdomainpictures.net/)
+ - [RGBstock](http://www.rgbstock.com/)
+ - [StockPhotos](https://stockphotos.io/)
+ - [StockVault](http://www.stockvault.net/)
+ - [Stockified](https://www.stockified.com/)
+ - [Stocksnap](https://stocksnap.io/)
+ - [Titania foto](https://www.titania-foto.com/)
+ - [Unsplash](https://unsplash.com/)
  - [VisualHunt](https://visualhunt.com/)
- - [Foter](http://foter.com/)
- - [StockSnap](https://stocksnap.io/)
- - [Finda](http://finda.photo/)
-  
- 
+ - [iStock](http://www.istockphoto.com/)
+
+
 Graphics resources
 ------------------
 
@@ -107,35 +96,35 @@ Graphics resources
 
  - [Envato elements](https://elements.envato.com)
  - [Textures.com](https://openclipart.org/)
- 
+
 Royalty free music
 -------------------
 
 ### Free
 
- - [NoCopyrightSounds](http://nocopyrightsounds.co.uk/)
- - [Silverman Sound Studios](https://www.silvermansound.com/free-music)
- - [Music for Makers](https://musicformakers.com/)
- - [Scott Buckley](http://www.scottbuckley.com.au/library/)
- - [sonnyboo](http://sonnyboo.com/music/music.htm)
- - [bensound](https://www.bensound.com/)
- - [PacDV](http://www.pacdv.com/sounds/free-music.html)
+ - [Audionautix](http://audionautix.com/)
+ - [Bensound](https://www.bensound.com/)
  - [CC Trax](https://cctrax.com/)
+ - [CCMixter](http://dig.ccmixter.org/free)
  - [Free music archive](http://freemusicarchive.org/)
+ - [Free stock music](https://www.freestockmusic.com/)
  - [HearThis](https://hearthis.at/creative-commons/)
  - [Incompetech](http://incompetech.com/music/)
+ - [Josh Woodward](https://www.joshwoodward.com/)
+ - [Moby Gratis](http://www.mobygratis.com)
+ - [Music for Makers](https://musicformakers.com/)
+ - [Music for monetize](https://www.youtube.com/user/MusicForMonetize/videos)
  - [Musopen](https://musopen.org/)
- - [CCMixter](http://dig.ccmixter.org/free)
+ - [NoCopyrightSounds](http://nocopyrightsounds.co.uk/)
+ - [PacDV](http://www.pacdv.com/sounds/free-music.html)
+ - [Scott Buckley](http://www.scottbuckley.com.au/library/)
+ - [Silverman Sound Studios](https://www.silvermansound.com/free-music)
+ - [Sonnyboo](http://sonnyboo.com/music/music.htm)
  - [TeknoAxe](http://teknoaxe.com/Home.php)
  - [Track tour music](http://tracktourmusic.com/)
- - [Audionautix](http://audionautix.com/)
+ - [Whatfunk]( http://www.whatfunk.com/)
  - [iBeat](http://audio.ibeat.org/?ccm=/media/tags/alternative)
- - [Free stock music](https://www.freestockmusic.com/)
- - [Josh Woodward](https://www.joshwoodward.com/)
- - [Music for monetize](https://www.youtube.com/user/MusicForMonetize/videos)
- - [whatfunk]( http://www.whatfunk.com/)
- - [mobygratis](http://www.mobygratis.com)
- 
+
 ### Commercial
 
  - [Audiojungle](https://audiojungle.net)
@@ -144,16 +133,17 @@ Royalty free music
 Samples and loops
 -----------------
 
- - [SampleSwap](http://sampleswap.org/)
  - [Landr](https://samples.landr.com/)
  - [Looperman](https://www.looperman.com/loops)
+ - [SampleSwap](http://sampleswap.org/)
 
 Sound effects
 -------------
 
+ - [DevTones](http://rcptones.com/dev_tones/) - UI Sounds
  - [FreeSound](http://freesound.org/browse/)
+ - [Octave](http://raisedbeaches.com/octave/) - UI Sounds
  - [PacDV](http://www.pacdv.com/sounds/index.html)
  - [Retro arcade soundpack](http://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/)
  - [SoundBible](http://soundbible.com/)
- - [Octave](http://raisedbeaches.com/octave/) - UI Sounds
- - [DevTones](http://rcptones.com/dev_tones/) - UI Sounds
+
