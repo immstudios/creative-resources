@@ -108,8 +108,6 @@ Graphics resources
  - [Envato elements](https://elements.envato.com)
  - [Textures.com](https://openclipart.org/)
  
-
-
 Royalty free music
 -------------------
 
@@ -134,12 +132,10 @@ Royalty free music
  - [iBeat](http://audio.ibeat.org/?ccm=/media/tags/alternative)
  - [Free stock music](https://www.freestockmusic.com/)
  - [Josh Woodward](https://www.joshwoodward.com/)
- - [Jewel Beat](http://www.jewelbeat.com/free/free-background-music.htm)
  - [Music for monetize](https://www.youtube.com/user/MusicForMonetize/videos)
  - [whatfunk]( http://www.whatfunk.com/)
  - [mobygratis](http://www.mobygratis.com)
  
-
 ### Commercial
 
  - [Audiojungle](https://audiojungle.net)
@@ -149,8 +145,7 @@ Samples and loops
 -----------------
 
  - [SampleSwap](http://sampleswap.org/)
- - [Wavy.audio](http://wavy.audio/)
- - [Converse sample library](https://www.conversesamplelibrary.com/)
+ - [Landr](https://samples.landr.com/)
  - [Looperman](https://www.looperman.com/loops)
 
 Sound effects
