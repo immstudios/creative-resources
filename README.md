@@ -16,8 +16,6 @@ Video programmes
 Stock footage
 -------------
 
-### Free
-
  - [Beachfront B-Roll](http://www.beachfrontbroll.com/)
  - [Clipcanvas](http://www.clipcanvas.com/free-footage/)
  - [Coverr](http://www.coverr.co/)
@@ -35,13 +33,6 @@ Stock footage
  - [Vidsplay](http://www.vidsplay.com/)
  - [Wedistill](http://www.wedistill.io/)
  - [XStockVideo](http://www.xstockvideo.com/)
-
-### Commercial
-
- - [Videohive](https://videohive.net)
- - [Pond 5](https://pond5.com)
- - [Videoblocks](https://videoblocks.com)
-
 
 Stock photos
 ------------
@@ -84,26 +75,16 @@ Stock photos
  - [VisualHunt](https://visualhunt.com/)
  - [iStock](http://www.istockphoto.com/)
 
-
 Graphics resources
 ------------------
 
-### Free
-
  - [Rocketstock](https://www.rocketstock.com)
-
-### Commercial
-
- - [Envato elements](https://elements.envato.com)
- - [Textures.com](https://openclipart.org/)
 
 Royalty free music
 -------------------
 
-### Free
-
  - [Audionautix](http://audionautix.com/)
- - [Bensound](https://www.bensound.com/)
+ - [Bensound](https://www.bensound.com/) ![CC-BY-NC-ND](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg)
  - [CC Trax](https://cctrax.com/)
  - [CCMixter](http://dig.ccmixter.org/free)
  - [Free music archive](http://freemusicarchive.org/)
@@ -125,11 +106,6 @@ Royalty free music
  - [Whatfunk]( http://www.whatfunk.com/)
  - [iBeat](http://audio.ibeat.org/?ccm=/media/tags/alternative)
 
-### Commercial
-
- - [Audiojungle](https://audiojungle.net)
- - [Pond 5](https://pond5.com)
-
 Samples and loops
 -----------------
 
@@ -146,4 +122,3 @@ Sound effects
  - [PacDV](http://www.pacdv.com/sounds/index.html)
  - [Retro arcade soundpack](http://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/)
  - [SoundBible](http://soundbible.com/)
-
