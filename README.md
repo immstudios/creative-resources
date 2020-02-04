@@ -104,7 +104,6 @@ Royalty free music
  - [TeknoAxe](http://teknoaxe.com/Home.php)
  - [Track tour music](http://tracktourmusic.com/)
  - [Whatfunk]( http://www.whatfunk.com/)
- - [iBeat](http://audio.ibeat.org/?ccm=/media/tags/alternative)
 
 Samples and loops
 -----------------
