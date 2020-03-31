@@ -79,11 +79,13 @@ Graphics resources
 ------------------
 
  - [Rocketstock](https://www.rocketstock.com)
+ - [unDraw](https://undraw.co/)
 
 Royalty free music
 -------------------
 
  - [Audionautix](http://audionautix.com/)
+ - [BlocSonic](https://blocsonic.com/)
  - [Bensound](https://www.bensound.com/) ![CC-BY-NC-ND](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg)
  - [CC Trax](https://cctrax.com/)
  - [CCMixter](http://dig.ccmixter.org/free)
@@ -96,6 +98,8 @@ Royalty free music
  - [Music for Makers](https://musicformakers.com/)
  - [Music for monetize](https://www.youtube.com/user/MusicForMonetize/videos)
  - [Musopen](https://musopen.org/)
+ - [New Midnight Cassette System](https://archive.org/details/New_Midnight_Cassette_System)
+ - [Nihilore](http://www.nihilore.com/)
  - [NoCopyrightSounds](http://nocopyrightsounds.co.uk/)
  - [PacDV](http://www.pacdv.com/sounds/free-music.html)
  - [Scott Buckley](http://www.scottbuckley.com.au/library/)
