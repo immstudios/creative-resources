@@ -37,8 +37,6 @@ Stock footage
 Stock photos
 ------------
 
-### Free
-
  - [Ancestry Images](http://www.ancestryimages.com/) - Historical prints
  - [Burst.shopify](https://burst.shopify.com/)
  - [Dreamstime](https://www.dreamstime.com/)
@@ -75,14 +73,14 @@ Stock photos
  - [VisualHunt](https://visualhunt.com/)
  - [iStock](http://www.istockphoto.com/)
 
-Graphics resources
-------------------
+Graphics
+--------
 
  - [Rocketstock](https://www.rocketstock.com)
  - [unDraw](https://undraw.co/)
 
-Royalty free music
--------------------
+Music
+-----
 
  - [Audionautix](http://audionautix.com/)
  - [BlocSonic](https://blocsonic.com/)
